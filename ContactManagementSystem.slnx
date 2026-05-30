@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ContactManagementSystem/ContactManagementSystem.csproj" />
+  <Project Path="ContactManagementSystemSetup/ContactManagementSystemSetup.vdproj" Type="Installer" />
+</Solution>
